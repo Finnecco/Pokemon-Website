@@ -383,13 +383,13 @@ body {
 
   .pokemon-type {
     position: absolute;
-    left: 2em;
+    left: 5em;
     bottom: 12em;
   }
 
   .pokemon-weakness {
     position: absolute;
-    left: 2em;
+    left: 5em;
     bottom: 4em;
   }
 
