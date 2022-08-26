@@ -222,14 +222,19 @@ body {
 .gamesKanto {
   position: absolute;
   top: 5em;
-  left: 2em;
+  left: -2em;
+  text-align: center;
 }
 
 .pokeRed,
 .pokeBlue {
   display: inline-block;
   width: 44%;
-  padding-left: 3%;
+  padding-inline-start: 2em;
+}
+
+.gamesKanto a {
+  text-decoration: none;
 }
 
 .startersKanto {
